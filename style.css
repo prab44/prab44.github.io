@@ -12,8 +12,8 @@ font-family: sans-serif;
 {
     width: 320px;
     height: 420px;
-    background: rgb(101, 101, 112);
-    color: #fff;
+    background:#4e6e5a ;
+    color: rgb(160, 161, 160);
     top: 50%;
     left: 50%;
     position: absolute;
@@ -69,8 +69,8 @@ h1
     border: none;
     outline: none;
     height: 40px;
-    background: #fb2525;
-    color: #ff0000;
+    background: #8d6767;
+    color: #ffffff;
     font-size: 18px;
     border-radius: 20px;
 }
@@ -85,7 +85,7 @@ h1
     text-decoration: none;
     font-size: 12px;
     line-height: 20px;
-    color: darkgrey;
+    color: rgb(97, 158, 79);
 }
 
 
